@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704826181820",
+    "project_id": "imdaat-talimiyah",
+    "storage_bucket": "imdaat-talimiyah.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704826181820:android:131df73809ec33c714e8b9",
+        "android_client_info": {
+          "package_name": "com.example.imdaat_taleemiyah_recipt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH4zdv-iuI5gBLVBB1denEZUu4PfI_b6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

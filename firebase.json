@@ -1,0 +1,26 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "imdaat-talimiyah",
+          "appId": "1:704826181820:android:131df73809ec33c714e8b9",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "imdaat-talimiyah",
+          "configurations": {
+            "android": "1:704826181820:android:131df73809ec33c714e8b9",
+            "ios": "1:704826181820:ios:de639610c8732d4814e8b9",
+            "web": "1:704826181820:web:147f8056027671ad14e8b9"
+          }
+        }
+      }
+    }
+  }
+}
